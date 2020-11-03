@@ -1,0 +1,1 @@
+web: gunicorn hrx.wsgi:application --log-file -
